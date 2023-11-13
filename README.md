@@ -15,3 +15,7 @@ There are currently no tests being used on this application.
 ## Live Link
 https://mattpoppell.github.io/automatic-enigma/
 
+
+## Screenshot
+<img width="1477" alt="Screenshot 2023-11-13 at 2 07 26 PM" src="https://github.com/MattPoppell/automatic-enigma/assets/142950050/aef1fa41-c8ea-4c26-a7dd-c5256cad1785">
+
