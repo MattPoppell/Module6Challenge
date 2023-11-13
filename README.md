@@ -12,3 +12,6 @@ No installation is necessary.  Applicatoin is ready to be used upon page loading
 ## Tests
 There are currently no tests being used on this application.
 
+## Live Link
+https://mattpoppell.github.io/automatic-enigma/
+
