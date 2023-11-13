@@ -19,7 +19,7 @@ let options = {
 
 
 function getCurrentWeather(cityName) {
-    let geocoderApiUrl = "http://api.openweathermap.org/geo/1.0/direct?q=" + cityName + "&limit=5&appid=e2c56b6bde1795bf35ad6fc3661ed5d2";
+    let geocoderApiUrl = "https://api.openweathermap.org/geo/1.0/direct?q=" + cityName + "&limit=5&appid=e2c56b6bde1795bf35ad6fc3661ed5d2";
 
     fetch(geocoderApiUrl)
         .then(function (response) {
