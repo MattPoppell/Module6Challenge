@@ -9,6 +9,6 @@ To use the application, enter the city to be searched for in the search form tha
 ## Installation
 No installation is necessary.  Applicatoin is ready to be used upon page loading.
 
-##Tests
+## Tests
 There are currently no tests being used on this application.
 
